@@ -1,0 +1,44 @@
+.cl {
+    position: relative;
+}
+
+.abs {
+    clip-path: polygon(0 0, 95% 0, 100% 100%, 0 130%);
+    border-radius: 0px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    background-color: brown !important;
+    position: absolute;
+    color: white;
+}
+
+.ab {
+    clip-path: polygon(0 0, 95% 0, 100% 100%, 0 130%);
+    border-radius: 0px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    background-color: brown !important;
+    color: white;
+}
+ hr {
+     border-top: 1px solid black;
+ }
+
+ img {
+    border-radius: 0px !important;
+    
+ }
+
+
+ .main {
+    border-radius: 0px !important;
+   height: auto;
+   width: 100%;
+ }
+
+ .round {
+    border-radius: 50%;
+    width: 60px; 
+    height: 60px; 
+    padding-top: 23px;
+ }
